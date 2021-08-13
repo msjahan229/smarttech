@@ -10,3 +10,4 @@ Scenario: User able to loging feature
 	And user verify user name is displays at top right 
 	Then user log out 
 	Then user close browser 
+	
