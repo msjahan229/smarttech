@@ -1,6 +1,6 @@
-package com.hrmautomaion;
+package dashboard.steps;
 
-public class WebDriver {
+public class AutomationPractice {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
